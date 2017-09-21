@@ -18,8 +18,8 @@ googleMapsEmbedAPIKey="YOUR_API_KEY"
 
 You are now ready to embed in your article as:
 
-![](example_article_google_maps.png)
+![](images/example_article_google_maps.png)
 
 Will ouput:
 
-![](example_lyon_google_maps.png)
+![](images/example_lyon_google_maps.png)
