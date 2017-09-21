@@ -7,7 +7,7 @@ Inside your Hugo project create a `layouts` folder if it does not exist and clon
 $ git clone https://github.com/nayed/hugo-shortcodes.git layouts/shortcodes
 $ rm -rf layouts/shortcodes/.git layouts/shortcodes/README.md
 ```
-You have to delete .git and README.md otherwise Hugo will output error message when parsing `layouts/shortcodes`.
+You have to delete `.git` folder and `README.md` file otherwise Hugo will output error message when parsing `layouts/shortcodes`.
 
 Or you can copy .html file and put them in yout layouts/shortcodes folder.
 
